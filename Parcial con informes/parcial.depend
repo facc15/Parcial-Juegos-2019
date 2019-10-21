@@ -1,0 +1,296 @@
+# depslib dependency file v1.0
+1570494821 source:c:\users\alumno\desktop\parcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+
+1570486356 c:\users\alumno\desktop\parcial\utn.h
+
+1570493914 c:\users\alumno\desktop\parcial\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1570495025 source:c:\users\alumno\desktop\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+
+1570494662 c:\users\alumno\desktop\parcial\alquiler.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1570486356 source:c:\users\alumno\desktop\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1570495285 source:c:\users\alumno\desktop\parcial\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+
+1571250228 source:g:\parcial\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+
+1570486358 g:\parcial\utn.h
+
+1570493916 g:\parcial\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1571250228 g:\parcial\alquiler.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1571250228 source:g:\parcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+
+1571248014 source:g:\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+
+1570486358 source:g:\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1571248834 source:g:\parcial\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+	"informes.h"
+
+1571248832 g:\parcial\informes.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1571674772 source:g:\parcial orquesta\parcial con informes\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+
+1571489910 g:\parcial orquesta\parcial con informes\utn.h
+
+1571675434 g:\parcial orquesta\parcial con informes\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1571503926 g:\parcial orquesta\parcial con informes\alquiler.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"juegos.h"
+
+1571685710 source:g:\parcial orquesta\parcial con informes\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"juegos.h"
+
+1571674902 source:g:\parcial orquesta\parcial con informes\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1571688848 source:g:\parcial orquesta\parcial con informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+	"informe.h"
+	"juegos.h"
+	"categoria.h"
+
+1571688838 g:\parcial orquesta\parcial con informes\informe.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"alquiler.h"
+	"cliente.h"
+
+1571688778 source:g:\parcial orquesta\parcial con informes\informe.c
+	<stdio.h>
+	<stdlib.h>
+	"informe.h"
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+	"categoria.h"
+	"juegos.h"
+
+1571490116 source:e:\parcial orquesta\parcial con informes\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1571489910 e:\parcial orquesta\parcial con informes\utn.h
+
+1571488576 source:e:\parcial orquesta\parcial con informes\categoria.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"categoria.h"
+	"utn.h"
+
+1571438712 e:\parcial orquesta\parcial con informes\categoria.h
+
+1571489932 source:e:\parcial orquesta\parcial con informes\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"juegos.h"
+
+1571485192 e:\parcial orquesta\parcial con informes\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1571493638 e:\parcial orquesta\parcial con informes\juegos.h
+	"categoria.h"
+
+1571674772 source:g:\parcial orquesta\parcial con informes\categoria.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"categoria.h"
+	"utn.h"
+
+1571506852 g:\parcial orquesta\parcial con informes\categoria.h
+
+1571627614 g:\parcial orquesta\parcial con informes\juegos.h
+	"categoria.h"
+
+1571674774 source:g:\parcial orquesta\parcial con informes\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
+1571438712 source:e:\parcial orquesta\parcial con informes\informe.c
+	<stdio.h>
+	<stdlib.h>
+	"informe.h"
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+	"categoria.h"
+	"juegos.h"
+
+1571488576 e:\parcial orquesta\parcial con informes\informe.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"alquiler.h"
+	"cliente.h"
+
+1571485434 e:\parcial orquesta\parcial con informes\alquiler.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"juegos.h"
+
+1571488830 source:e:\parcial orquesta\parcial con informes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+	"informe.h"
+	"juegos.h"
+	"categoria.h"
+
+1571488708 source:e:\parcial orquesta\parcial con informes\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"alquiler.h"
+	"juegos.h"
+
+1571488576 source:e:\parcial orquesta\parcial con informes\juegos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"juegos.h"
+
